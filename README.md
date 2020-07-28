@@ -28,7 +28,7 @@ Limited availability, requires pre-release agreement. Features still under heavy
 - **beta:** *Publicly available in full or limited capacity*\
 Features mostly complete and documented. Timeline and requirements for GA usually published. No SLAs or support provided.
 
-- **ga:** *Generally available to all customers*\
+- **gamma:** *Generally available to all customers*\
 Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows: 
